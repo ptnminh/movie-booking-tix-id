@@ -1,0 +1,49 @@
+// USER
+export const USER_LOGIN = "USER_LOGIN";
+export const USER_SIGNUP = "USER_SIGNUP";
+export const SET_USER_LOGIN = "SET_USER_LOGIN";
+export const USER_LOGOUT = "USER_LOGOUT";
+export const SET_AUTHENTICATED = "SET_AUTHENTICATED";
+export const GET_USER_RESERVATIONS = "GET_USER_RESERVATIONS";
+// ADMIN
+export const GET_ALL_USERS = "GET_ALL_USERS";
+export const ADD_USER = "ADD_USER";
+export const DELETE_USER = "DELETE_USER";
+export const UPDATE_USER = "UPDATE_USER";
+
+// Film
+
+export const GET_FILM = "GET_FILM";
+export const CREATE_FILM = "CREATE_FILM";
+export const DELETE_FILM = "DELETE_FILM";
+export const UPDATE_FILM = "UPDATE_FILM";
+export const GET_FILM_DETAIL = "GET_FILM_DETAIL";
+
+// Film User HeroSlide
+
+export const GET_LIST_FILM_UPCOMING = "GET_LIST_FILM_UPCOMING";
+export const GET_LIST_FILM_SHOWING = "GET_LIST_FILM_SHOWING";
+
+// Admin Theater
+export const GET_THEATER = "GET_THEATER";
+export const CREATE_THEATER = "CREATE_THEATER";
+export const DELETE_THEATER = "DELETE_THEATER";
+export const UPDATE_THEATER = "UPDATETHEATERM";
+
+// Loading
+export const SET_LOADING = "SET_LOADING";
+export const HIDE_LOADING = "HIDE_LOADING";
+
+// MovieSchedule
+
+export const GET_DATES = "GET_DATES";
+export const GET_THEATER_SCHEDULE = "GET_THEATER_SCHEDULE";
+export const DELETE_THEATER_SCHEDULE = "DELETE_THEATER_SCHEDULE";
+export const GET_DETAIL_BOOKING = "GET_DETAIL_BOOKING";
+
+//Seats
+
+export const GET_SEATS = "GET_SEATS";
+export const UPPDATE_SEAT_BOOKED = "UPPDATE_SEAT_BOOKED";
+export const RESERVATION_SEATS = "RESERVATION_SEATS";
+export const UPPDATE_SEAT_BOOKING = "UPPDATE_SEAT_BOOKING";
