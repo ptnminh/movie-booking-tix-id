@@ -1,20 +1,18 @@
 # Video Demo
-##### [**www.youtube.com**](https://youtube.com)
-
-# Figma Source
-
-
-##### [**Figma**](https://www.figma.com/file/s9OK2nAKsSmCXgrhnBkWc4/TIX-ID-Web-Design-(Community)?node-id=2%3A3)
-
-
+Source :[   https://www.youtube.com/watch?v=cdimBJxnKWw ](https://www.youtube.com/watch?v=cdimBJxnKWw)
 
 # Mainly Tech Used
-  * ### FRONT-END
-    1 ##### HTML, CSS, JS, REACTJS, REDUX, REDUX-THUNK
-    2 ##### TAILWINDCSS, SWIPER, REACT-SLICK, SOCKET-IO.CLIENT
- * ### BACK-END
-    1 ##### NODEJS, EXPRESSJS, SOCKETIO
- * ### DATABASE
-    1 ##### MYSQL
-# Description
-    
+* FrontEnd: HTML, CSS, Javascript, Tailwindcss, Reactjs
+* BackEnd: Nodejs, Expressjs, Restfull API, MVC
+* Database: Mysql
+* Libraries: Axios, React-Loading-Skeleton, Redux, Redux-thunk, Swiper, React-slick, SocketIO, Bcrypt
+
+# Features
+* Register, Login validate and auto generate avatar
+* Admin dashboard
+* CRUD Users, Films, Theaters for admin
+* Auto create Movie Schedule for all theater based on date 
+* Handle json-web-token
+* Encode password by bcrypt
+* Real-time booking
+* Loading skeleton
